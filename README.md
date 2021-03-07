@@ -1,5 +1,5 @@
 # Docsify-toTop
-Docsify 返回顶部插件，源代码来自 https://github.com/mmkjony/jQuery.toTop ，遵循 MIT 许可证。
+Docsify 返回顶部实现方式，源代码来自 https://github.com/mmkjony/jQuery.toTop ，遵循 MIT 许可证。
 ## Demo
 
 ## 使用
