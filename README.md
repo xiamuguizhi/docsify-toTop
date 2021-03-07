@@ -10,7 +10,7 @@ Docsify 返回顶部实现方式，源代码来自 https://github.com/mmkjony/jQ
 **3. 复制以下代码到项目的 `index.html` 中。**
 ```html
 <a class="to-top">Top &uarr;</a>
-<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="https://cdn.staticfile.org/jquery/1.12.4/jquery.min.js"></script>
 <script src="/js/jquery.toTop.min.js"></script>
 <script>
   $('.to-top').toTop({
